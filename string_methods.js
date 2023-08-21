@@ -16,7 +16,6 @@ console.log(name1.concat(" is a friend of ", friend, " Ok"));
 let na = "Soumya" + "jit" // Also use + operator to concat strings
 console.log(na);
 
-
 let friend2 = "    Meena     ";
 console.log(friend2.trim());
 // console.log(friend2);

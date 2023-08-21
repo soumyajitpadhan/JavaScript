@@ -7,6 +7,15 @@ const word = 'fox';
 console.log(sentence.includes(word));
 console.log(`The word "${word}" ${sentence.includes(word) ? 'is' : 'is not'} in the sentence `);
 
+const str1 = 'Saturday night plans';
+console.log(str1.startsWith('Sat'));
+console.log(str1.startsWith('Sat', 0));//startsWith(searchString, position)
+console.log(str1.startsWith('at'));
+
+console.log(str1.endsWith('ans'));
+console.log(str1.endsWith('ans',20));
+console.log(str1.endsWith('as'));
+
 // Q3
 let student = "SOUMYA";
 console.log(student.toLowerCase());
