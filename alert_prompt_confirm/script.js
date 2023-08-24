@@ -1,4 +1,5 @@
 // alert("Hello your script work!");
+
 let a = prompt("Enter the value of a: ", "833");
 a = Number.parseInt(a);
 alert("You entered a of type : " + (typeof (a)));
