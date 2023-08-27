@@ -35,4 +35,3 @@ console.log(item["Shubh"]);
 console.log(item["Rohan"]);
 console.log(item["Lovish"]);
 console.log(item["lkj"]);
-
