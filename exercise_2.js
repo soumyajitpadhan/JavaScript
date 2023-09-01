@@ -15,6 +15,7 @@ while (playAgain) {
     }
 
     const match = (computer, user) => {
+        
         if (computer == user) {
             return "Nobody";
         }
@@ -40,7 +41,6 @@ while (playAgain) {
     }
 
     let result = match(computer, user);
-
     console.log("You chose " + user + " and computer chose " + computer + "\nThe winner is : " + result);
 
     playAgain = confirm("Do you want to play again ?");
