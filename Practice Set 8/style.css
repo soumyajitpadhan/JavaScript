@@ -1,0 +1,11 @@
+/* Question - 5 */
+.bulb {
+    background-color: red;
+}
+
+.bulbcontainer {
+    height: 341px;
+    width: 341px;
+    border: 2px solid black;
+    border-radius: 100%;
+}
