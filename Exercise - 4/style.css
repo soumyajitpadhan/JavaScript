@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#time {
+    display: flex;
+    width: 430px;
+    height: 40px;
+    background: linear-gradient(to right ,rgb(239, 84, 84),rgb(55, 218, 58));
+    color: rgb(35, 32, 32);
+    margin: 40px auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: bold;
+}
