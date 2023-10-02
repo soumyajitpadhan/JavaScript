@@ -1,4 +1,5 @@
-// Question - 1 -> ............Contests app...............
+// Question - 1 -> 
+// ............Contests app...............
 
 let url = "https://kontests.net/api/v1/all";
 let response = fetch(url);
