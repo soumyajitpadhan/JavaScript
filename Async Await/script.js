@@ -23,11 +23,11 @@ async function rahul() {
     // delhiWeather.then(alert);
     // bengaloreWeather.then(alert);
 
-    console.log("Fetching Delhi Weather Please Wait........")
+    console.log("Fetching Delhi Weather Please Wait........");
     let delhiW = await delhiWeather;
     console.log("Fetched Delhi Weather is " + delhiW);
 
-    console.log("Fetching Bengalore Weather Please Wait........")
+    console.log("Fetching Bengalore Weather Please Wait........");
     let bengaloreW = await bengaloreWeather;
     console.log("Fetched Bengalore Weather is " + bengaloreW);
 
