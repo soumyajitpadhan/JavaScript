@@ -9,8 +9,8 @@ console.log(document.body.childNodes)*/
 // console.log(arr)
 
 // Parent and Siblings of an element
-console.log(document.body.firstChild)
-a = document.body.firstChild
-console.log(a.parentNode)
-console.log(a.parentElement)
-console.log(a.firstChild.nextSibling)
+console.log(document.body.firstChild);
+a = document.body.firstChild;
+console.log(a.parentNode);
+console.log(a.parentElement);
+console.log(a.firstChild.nextSibling);
