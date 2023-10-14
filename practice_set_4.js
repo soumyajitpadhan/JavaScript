@@ -29,5 +29,5 @@ console.log(amout);
 
 // Q5
 let friend = "Deepika";
-friend[3] = "R"
+friend[3] = "R";
 console.log(friend); //friend is not change because string is immutable
